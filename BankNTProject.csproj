@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Service\DTOs\BankerDTOs\**" />
+    <Compile Remove="Service\DTOs\PayOfficeDTOs\**" />
+    <EmbeddedResource Remove="Service\DTOs\BankerDTOs\**" />
+    <EmbeddedResource Remove="Service\DTOs\PayOfficeDTOs\**" />
+    <None Remove="Service\DTOs\BankerDTOs\**" />
+    <None Remove="Service\DTOs\PayOfficeDTOs\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\Databases\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Sharprompt" Version="2.4.1" />
+  </ItemGroup>
+
+</Project>

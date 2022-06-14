@@ -1,0 +1,37 @@
+[
+  {
+    "Email": "m@mail.ru",
+    "Password": "b637f94c32d092b734e25d9c74384497d252fb06577dbd0e5b188d7682e49039",
+    "FullName": "m",
+    "CreditsId": [
+      "ec4a3a11-cb8a-4f0c-88d3-97f9a60abedf",
+      "92c6a73c-edfe-43c7-a6f7-5b257d18268c",
+      "c637c84c-34ef-41a0-ad11-9861583b3fa8"
+    ],
+    "CardsId": [
+      "3d26d009-71db-49dd-87d3-ddf1a084e4f6"
+    ],
+    "TransientsId": [
+      "a5f0053e-8c74-4cb8-aa8f-e2b0448d41d9",
+      "faf2e4e1-c94c-4666-90a9-ffbd6c0aa80f"
+    ],
+    "Username": "muham",
+    "Id": 0,
+    "PrimeryKey": "3d26d009-71db-49dd-87d3-ddf1a084e4f6",
+    "CreatedAt": "2022-06-14T09:06:35.4128428+05:00",
+    "UpdatedAt": "2022-06-14T09:21:50.9421443+05:00"
+  },
+  {
+    "Email": "adash@gmail.com",
+    "Password": "27f8cb8135f15e28f6e189a76fd75ae670d745d1633baf39fce6280669102136",
+    "FullName": "Muhammad Kasimov",
+    "CreditsId": [],
+    "CardsId": [],
+    "TransientsId": [],
+    "Username": "adash",
+    "Id": 1,
+    "PrimeryKey": "f85a5c1f-440a-4273-95d2-55e4f34162f2",
+    "CreatedAt": "2022-06-14T09:59:40.3586782+05:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  }
+]

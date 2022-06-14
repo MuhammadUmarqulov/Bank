@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ob8vX1CgpP+2CHFNYtePmw9cUHlD21sEOGyueHyIouhn3uNv6HYZaYLP7EKMvnMZYcr1XndDKVELkWZAuKW9sg==",
+  "success": true,
+  "projectFilePath": "F:\\.netProjects\\BankNTProject\\BankNTProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\sharprompt\\2.4.1\\sharprompt.2.4.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

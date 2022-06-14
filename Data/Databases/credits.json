@@ -1,0 +1,22 @@
+[
+  {
+    "UserId": "3d26d009-71db-49dd-87d3-ddf1a084e4f6",
+    "Amount": 100.0,
+    "Duration": 34.0,
+    "Persantage": 23.0,
+    "Id": 3,
+    "PrimeryKey": "92c6a73c-edfe-43c7-a6f7-5b257d18268c",
+    "CreatedAt": "2022-06-14T09:14:25.6444764+05:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "UserId": "3d26d009-71db-49dd-87d3-ddf1a084e4f6",
+    "Amount": 234.0,
+    "Duration": 34.0,
+    "Persantage": 23.0,
+    "Id": 4,
+    "PrimeryKey": "c637c84c-34ef-41a0-ad11-9861583b3fa8",
+    "CreatedAt": "2022-06-14T09:14:42.7669027+05:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  }
+]

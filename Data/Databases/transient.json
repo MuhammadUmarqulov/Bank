@@ -1,0 +1,12 @@
+[
+  {
+    "UserId": "3d26d009-71db-49dd-87d3-ddf1a084e4f6",
+    "Amount": 133.0,
+    "Duration": 23,
+    "Persantage": 15,
+    "Id": 2,
+    "PrimeryKey": "faf2e4e1-c94c-4666-90a9-ffbd6c0aa80f",
+    "CreatedAt": "2022-06-14T09:16:42.719258+05:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  }
+]
