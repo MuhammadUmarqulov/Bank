@@ -1,4 +1,4 @@
-﻿using BankNTProject.Service.DTOs.UserDTOs;
+using BankNTProject.Service.DTOs.UserDTOs;
 using BankNTProject.Service.Extentions;
 using BankNTProject.Service.Interfaces;
 using BankNTProject.Service.Services;
@@ -30,7 +30,7 @@ namespace BankNTProject.Pages
                 {
                     Console.Clear();
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("LOGIN FAILED");
+                    Console.WriteLine("Login failed!!!");
                     Console.ResetColor();
                     SetMainPage();
                 }
@@ -50,8 +50,8 @@ namespace BankNTProject.Pages
                     Console.ResetColor();
                     SetMainPage();
                 }
-                UserAbilities userAbilities = new UserAbilities(userId);
                 userId = newUser.Id;
+                UserAbilities userAbilities = new UserAbilities(userId);
                 Console.Clear();
             }
             else if (mainChoice == "Quit")
