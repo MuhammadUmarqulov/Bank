@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+using AutoMapper;
 using BankNTProject.Data.IRepositories;
 using BankNTProject.Data.Repositories;
 using BankNTProject.Domain.Entities;
@@ -103,6 +103,8 @@ namespace BankNTProject.Service.Services
         public UserViewModel AddCard(Guid id, TypeCard typeCard)
         {
             var result = _userRepository.Get(p => p.PrimeryKey == id);
+
+            Console.WriteLine(id);
 
             var card = new Card()
             {
